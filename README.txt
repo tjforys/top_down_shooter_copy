@@ -1,0 +1,1 @@
+Game sprites and sound files should be adequately put in sprite and mp3 folder and mentioned in the file_paths.py file.
